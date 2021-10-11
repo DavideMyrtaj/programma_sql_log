@@ -1,0 +1,10 @@
+C:\Users\Davide\Desktop\Programmi_C#_2021-2022\tabellaLog\tabellaLog\bin\Debug\tabellaLog.exe.config
+C:\Users\Davide\Desktop\Programmi_C#_2021-2022\tabellaLog\tabellaLog\bin\Debug\tabellaLog.exe
+C:\Users\Davide\Desktop\Programmi_C#_2021-2022\tabellaLog\tabellaLog\bin\Debug\tabellaLog.pdb
+C:\Users\Davide\Desktop\Programmi_C#_2021-2022\tabellaLog\tabellaLog\obj\Debug\tabellaLog.csprojAssemblyReference.cache
+C:\Users\Davide\Desktop\Programmi_C#_2021-2022\tabellaLog\tabellaLog\obj\Debug\tabellaLog.Form1.resources
+C:\Users\Davide\Desktop\Programmi_C#_2021-2022\tabellaLog\tabellaLog\obj\Debug\tabellaLog.Properties.Resources.resources
+C:\Users\Davide\Desktop\Programmi_C#_2021-2022\tabellaLog\tabellaLog\obj\Debug\tabellaLog.csproj.GenerateResource.cache
+C:\Users\Davide\Desktop\Programmi_C#_2021-2022\tabellaLog\tabellaLog\obj\Debug\tabellaLog.exe
+C:\Users\Davide\Desktop\Programmi_C#_2021-2022\tabellaLog\tabellaLog\obj\Debug\tabellaLog.pdb
+C:\Users\Davide\Desktop\Programmi_C#_2021-2022\tabellaLog\tabellaLog\obj\Debug\tabellaLog.login.resources
